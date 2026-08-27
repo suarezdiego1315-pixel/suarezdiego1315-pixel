@@ -55,11 +55,6 @@ Actualmente me encuentro en proceso de formación académica y técnica, donde e
   Institución: Servicio Nacional de Aprendizaje (SENA)  
   Teléfono: +57 3209757195
 
----
 
-## Observaciones
-- Documento de identidad y dirección no se incluyen en este README por motivos de privacidad. Si deseas que los incluya (por ejemplo para un CV privado), indícamelo y los agrego.
-- Si quieres que genere una versión en inglés, un CV en PDF, o que suba este README a un repositorio, dime el owner/repo y lo hago.
 
----
-```
+
