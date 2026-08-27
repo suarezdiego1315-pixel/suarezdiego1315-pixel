@@ -1,6 +1,3 @@
-Aquí tienes el README.md con tus datos listo para copiar/pegar:
-
-```markdown name=README.md
 # Diego Suárez
 
 > Estudiante Técnico en Sistemas | Apasionado por la tecnología y el aprendizaje constante
